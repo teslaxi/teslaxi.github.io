@@ -1,12 +1,14 @@
 ---
-title: "Paper Title Number 4"
+title: "Named entity recognition for Fintech"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+excerpt: 'This paper is about named entity recognition.'
+date: 2024-06-20
+venue: 'Final project for CS181 Spring in Shanghaitech University'
+paperurl: 'https://github.com/teslaxi/Named-entity-recognition-for-Fintech/blob/main/paper/group2_Named%20entity%20recognition%20for%20Fintech.pdf'
+
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper is for the Shanghaitech CS181 Artificial Intelligence in 24Spring final project. We apply the Hidden Markov Model (HMM) we learned in our course to train our NER model for Fintech, which can extract named entities from financial news. However, HMM assumes that each word in the observed sentence is independent of the others, which is flawed in solving the problem of named entity recognition. Therefore, we try the Conditional Random Field (CRF) to utilize the dependency between the words in financial news.
+
+[link](https://github.com/teslaxi/Named-entity-recognition-for-Fintech/blob/main/paper/group2_Named%20entity%20recognition%20for%20Fintech.pdf)
