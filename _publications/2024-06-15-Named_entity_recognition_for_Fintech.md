@@ -1,7 +1,7 @@
 ---
 title: "Named entity recognition for Fintech"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/2024-06-15-Named_entity_recognition_for_Fintech
 excerpt: 'This paper is about named entity recognition.'
 date: 2024-06-20
 venue: 'Final project for CS181 Spring in Shanghaitech University'
