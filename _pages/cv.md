@@ -27,7 +27,7 @@ Work experience
 ======
 SHANGHAITECH UNIVERSITY, Shanghai, China 2022 – Present
 
-* *Undergraduate Researcher*, **Financial Intelligence Laboratory** | PI: Haipeng ZHANG Sept. 2023 - Present
+* *Undergraduate Researcher*, **Financial Intelligence Laboratory**  PI: Haipeng ZHANG Sept. 2023 - Present
 
   - Using LLM and data mining and analyses to conduct research on human behavioral data mining and modeling and fintech modeling.
 
