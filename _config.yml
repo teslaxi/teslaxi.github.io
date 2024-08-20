@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yixi Zhou"
+title                    : "Yixi ZHOU"
 title_separator          : "-"
-name                     : &name "Yixi Zhou"
+name                     : &name "Yixi ZHOU"
 description              : &description "personal description"
-url                      : https://teslaxi.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://teslaxi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "teslaxi/teslaxi.github.io"
 
@@ -22,7 +22,7 @@ repository               : "teslaxi/teslaxi.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yixi Zhou"
+  name             : "Yixi ZHOU"
   pronouns         : # example: "she/her"  
   bio              : "Junior at Shanghaitech university"
   location         : "Shanghai, China"

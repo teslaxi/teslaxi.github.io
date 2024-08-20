@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to the website of Yixi Zhou"
+title: "Welcome to the website of Yixi ZHOU"
 author_profile: true
 redirect_from: 
   - /about/

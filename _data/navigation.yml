@@ -7,8 +7,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "News"
-    url: /news/   
+  # - title: "News"
+  #   url: /news/   
   
   #- title: "Talks"
     #url: /talks/    
@@ -17,8 +17,8 @@ main:
     url: /teaching/   
 
 
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
     
   
     
