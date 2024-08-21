@@ -44,8 +44,8 @@ SHANGHAITECH UNIVERSITY, Shanghai, China 2022 – Present
 
   - Coordinated with various parties, collected data and held discussions with various government departments in Yan'an to fully understand the local economic situation and specialty industries, and completed the research report.
 
-# ACTIVITIES
-
+ACTIVITIES
+======
 * **2024 AMERICAN MATHEMATICAL MODELING CONTEST (ICM)** Feb. 2024
   Personal Project: Sustainability Insurance Modeling in Extreme Weather
 
