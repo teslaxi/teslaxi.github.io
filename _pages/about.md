@@ -10,11 +10,11 @@ redirect_from:
 
 
 
-I’m a rising Junior from the Computer Science and Technology major at ShanghaiTech, where I’m also doing an Minor in Finance. I go by Xander, the name I chose after seeing a play called Hamilton. I’m an outgoing and social person, but when I’m in the lab, I like to focus deeply on my academic interest in data science and data mining to improve the efficiency of society and the economy. 
+I’m a Junior from the Computer Science and Technology major at ShanghaiTech and now I am in the visiting international student program in university of Wisconsin-Madison(VISP program). I go by Xander, the name I chose after seeing a play called Hamilton. I’m an outgoing and social person, but when I’m in the lab, I like to focus deeply on my academic interest in data science and data mining to improve the efficiency of society and the economy. 
 
 
 
-At ShanghaiTech, I have spent two years of coursework focusing on both computer science and business and did research to prepare for more advanced coursework. I’m in Prof. Haipeng Zhang’s Financial Intelligence Laboratory where I have built experience in the field of data mining. I really enjoy the process of collecting data from different areas and applying my computer science knowledge to mine the clues behind the data which can’t be found easily by human observation. I have used data from Wikipedia to analyze the education and longitudinal migration patterns of easily trackable people from around the world, such as celebrities.
+At ShanghaiTech, I have spent three years of coursework focusing on both computer science and business and did research to prepare for more advanced coursework. I’m in Prof. Haipeng Zhang’s Financial Intelligence Laboratory where I have built experience in the field of data mining. I really enjoy the process of collecting data from different areas and applying my computer science knowledge to mine the clues behind the data which can’t be found easily by human observation. I have used data from Wikipedia to analyze the education and longitudinal migration patterns of easily trackable people from around the world, such as celebrities.
 
 
 
@@ -30,7 +30,7 @@ Outside of academia, I have participated in social impact activities, such as se
 
 
 
-Feel free to contact me at zhouyx2022@shanghaitech.edu.cn, I'm looking for undergraduate summer research, as well as graduate programs in future!
+Feel free to contact me at zhouyx2022@shanghaitech.edu.cn or zhou658@wisc.edu, I'm looking for undergraduate summer research, as well as graduate programs in future!
 
 
 
