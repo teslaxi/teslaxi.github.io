@@ -23,6 +23,11 @@ Education
 
   * Academic Interest: Data science and data mining for economic and business historical and trend analyses
 
+* University of Wisconsin–Madison, Madison WI, USA 2025 Jan. - Expected June 2025
+
+  ***Bachelor of Science Candidate***, Computer Science, VISP(Visiting International Student Program) Program
+
+
 Work experience
 ======
 SHANGHAITECH UNIVERSITY, Shanghai, China 2022 – Present
